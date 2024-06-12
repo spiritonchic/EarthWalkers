@@ -1,0 +1,10 @@
+body {
+    margin: 300px;;
+    background: #ACA;    
+    //cursor: none;
+    }
+
+     body canvas {
+    display: block;
+    margin: auto;
+    } 
